@@ -40,7 +40,7 @@ a:hover {
 
 .creative_area {
     padding: 50px 0 100px 0;
-    background-color: #fff;
+    background-color: #222;
 }
 
 .creative_area h2 {
@@ -80,7 +80,7 @@ a:hover {
     display: block;
     margin: 0;
     font-size: 18px;
-    color: #335
+    color: #333
 }
 
 
@@ -88,11 +88,11 @@ a:hover {
 
 .creative_area .card:hover {
     visibility: visible;
-    background-color: #6fafb4;
+    background-color: #222222;
 }
 
 .creative_area .card:hover .card-title-wrap {
-    background-color: #6fafb4;
+    background-color: #222222;
 }
 
 
@@ -128,7 +128,7 @@ a:hover {
 }
 
 .article_text h1 {
-    color: #6fafb4;
+    color: #fff;
     margin: 10px 0;
 }
 
@@ -155,51 +155,6 @@ a:hover {
 }
 
 
-/* 商品促銷活動 */
-
-.activity_area {
-    background-color: #ffffff;
-    padding: 150px 0;
-    padding: 150px 0;
-}
-
-.activity_price {
-    margin: 50px 0;
-}
-
-.activity_price span {
-    color: #db3a55;
-    font-size: 5rem;
-}
-
-.activity_price h1 {
-    margin: 20px 0;
-    color: #969696;
-}
-
-.activity_price h2 {
-    color: #3e3f3f;
-}
-
-
-/* 規格 */
-
-.standard_area {
-    background-color: #FFFFFF;
-}
-
-.standard_use {
-    list-style-type: decimal;
-}
-
-.standard_use li {
-    font-size: 16px;
-    line-height: 1.5rem;
-    text-align: justify;
-    margin-bottom: 15px;
-    color: #3e3f3f;
-}
-
 
 /* 貼心提醒 */
 
@@ -214,14 +169,14 @@ a:hover {
 .remind {
     padding: 20px;
     background: rgba(0, 0, 0, 0.3);
-    color: #FFFFFF;
+    color: #eee;
 }
 
 
 /* 頁腳 */
 
 .footer {
-    background-color: #e6e6e6;
+    background-color: #222;
     padding: 15px 0;
 }
 
@@ -233,7 +188,7 @@ a:hover {
     list-style-type: none;
     font-size: 14px;
     line-height: 1.2rem;
-    color: #5e5e5e;
+    color: #eee;
 }
 
 .footer_copyright {
